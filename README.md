@@ -36,14 +36,14 @@ Data issues and limitations:
 - There is one duplicated row only in our dataset
 
 Data Assessing and Cleaning justifications:
-•	we need to separate the first value from the cast column to extract the main actor of each movie(assumption)
-•	do the same for genre column as the first value indicate to the main genre of the movie(assumption).
-•	since the revenue and budget columns doesn't have currency symbol indicator, we will assume that the currency used is united states dollar(assumption).
-•	drop the release date as there is a release year column so it's not necessary for our analysis.
-•	values of zeros in budget, revenue and runtime columns will affect the accuracy of our statistical summary so we'll drop them after a general investigation on our dataset.
-•	drop the columns that aren't needed for our analysis such as id, imdb_id, homepage, keywords, overview, production companies, budget adj and revenue adj.
-•	create a column with showing the profit (the difference between the budget and the revenue.
-•	we'll drop the columns with missing values as well as the duplicated row.
+-	we need to separate the first value from the cast column to extract the main actor of each movie(assumption)
+-	do the same for genre column as the first value indicate to the main genre of the movie(assumption).
+-	since the revenue and budget columns doesn't have currency symbol indicator, we will assume that the currency used is united states dollar(assumption).
+-	drop the release date as there is a release year column so it's not necessary for our analysis.
+-	values of zeros in budget, revenue and runtime columns will affect the accuracy of our statistical summary so we'll drop them after a general investigation on our dataset.
+-	drop the columns that aren't needed for our analysis such as id, imdb_id, homepage, keywords, overview, production companies, budget adj and revenue adj.
+- create a column with showing the profit (the difference between the budget and the revenue.
+-	we'll drop the columns with missing values as well as the duplicated row.
 
 Findings: 
 The most frequent genre in the dataset is the drama genre, it represents 23.1% from all the observations in our dataset followed by comedy and action.
