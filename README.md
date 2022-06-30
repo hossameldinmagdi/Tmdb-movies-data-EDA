@@ -16,14 +16,14 @@ EDA, Univariate analysis , Bivariate analysis
 
 
 Questions:
-1- what is the most frequent genres (number of occurrence)?
-2- what are the characteristics of top 10 most popular movies (in terms of popularity)?
-3- what is the most watched genre?
-4- how does the revenues and profits change over years? 
-5- What are the top profitable genres?
-6- what are the top 10 most profitable movies?
-7- what is the average vote received for most profitable genre?
-8- is there a relationship between popularity and profit?
+- what is the most frequent genres (number of occurrence)?
+- what are the characteristics of top 10 most popular movies (in terms of popularity)?
+- what is the most watched genre?
+- how does the revenues and profits change over years? 
+- What are the top profitable genres?
+- what are the top 10 most profitable movies?
+- what is the average vote received for most profitable genre?
+- is there a relationship between popularity and profit?
 
 Data issues and limitations:
 - There are multiple values recorded in the cast column for each movie as well as genres column.
