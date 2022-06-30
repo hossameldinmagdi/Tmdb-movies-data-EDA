@@ -46,12 +46,12 @@ Data Assessing and Cleaning justifications:
 -	we'll drop the columns with missing values as well as the duplicated row.
 
 Findings: 
-The most frequent genre in the dataset is the drama genre, it represents 23.1% from all the observations in our dataset followed by comedy and action.
-The top 10 most popular movies in terms of popularity scores between 10.74% up to 33%, 6 out of them are action genres, with average budget around 127 million.
-The most watched genre (sum of runtimes) as per our dataset is drama 104557 times. followed by comedy 80386 times and action 76124 times. with a high gap with the fourth position (adventure) which have been watched 36048 times.
-Sum of revenues increases over time showing smooth ascending trend since 1960 up to date. As well as profit increases over time the trend is very hesitant which means there are some years with high drops in profits sums while other years show significant increase.
-The Most profitable genre over the time is Action followed by adventure, comedy and drama respectively.
-The top 10 most profitable movies over the time are: Avatar, Star Wars: The Force Awakens, Titanic, Jurassic World, Furious 7, The Avengers, Harry Potter and the deathly hallows part 2, Avengers: Age of Ultron, Frozen, The Net. 5 out of them has main genre as Action genre.
-The average vote received for the most profitable genre (Action Genre) is almost 6 over the time.
-there may be a relationship between the profit and the popularity moderate as the correlation score between them is almost 60%.
-The most profitable genre over years is the action genre as the trend show significant increase in the last 10 years. While drama and comedy genres remain steady over the last 10 years.
+- The most frequent genre in the dataset is the drama genre, it represents 23.1% from all the observations in our dataset followed by comedy and action.
+- The top 10 most popular movies in terms of popularity scores between 10.74% up to 33%, 6 out of them are action genres, with average budget around 127 million.
+- The most watched genre (sum of runtimes) as per our dataset is drama 104557 times. followed by comedy 80386 times and action 76124 times. with a high gap with the fourth position (adventure) which have been watched 36048 times.
+- The Sum of revenues increases over time showing smooth ascending trend since 1960 up to date. As well as profit increases over time the trend is very hesitant which means there are some years with high drops in profits sums while other years show significant increase.
+- The Most profitable genre over the time is Action followed by adventure, comedy and drama respectively.
+- The top 10 most profitable movies over the time are: Avatar, Star Wars: The Force Awakens, Titanic, Jurassic World, Furious 7, The Avengers, Harry Potter and the deathly hallows part 2, Avengers: Age of Ultron, Frozen, The Net. 5 out of them has main genre as Action genre.
+- The average vote received for the most profitable genre (Action Genre) is almost 6 over the time.
+- there may be a relationship between the profit and the popularity moderate as the correlation score between them is almost 60%.
+- The most profitable genre over years is the action genre as the trend show significant increase in the last 10 years. While drama and comedy genres remain steady over the last 10 years.
