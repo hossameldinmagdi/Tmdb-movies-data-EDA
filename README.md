@@ -16,6 +16,7 @@ EDA, Univariate analysis , Bivariate analysis
 
 
 Questions:
+
 1- Describe the distribution of budget, revenue, profit and runtime?
 
 2- what is the most frequent genres ( number of occurance )?
